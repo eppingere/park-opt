@@ -41,11 +41,11 @@ Title for app is a work in progress. Feel free to send suggestions.
 
 Simply open the app and hit `Park Now`
 
-![UI Image 1](./img/1.png)
+![UI Image 1](img/1.png)
 
 Then enter the meter number displayed into the `Go Mobile PGH` app
 
-![UI Image 2](./img/2.png)
+![UI Image 2](img/2.png)
 
 
 ## Why Pittsburgh?

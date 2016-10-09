@@ -35,6 +35,17 @@ Title for app is a work in progress. Feel free to send suggestions.
 
 * `park-opt` changes which kiosk you pay at so that you never exceed the time limits for each kiosk.
 
+## How to Use `park-opt` 
+
+Using `park-opt` is quite simple
+
+Simply open the app and hit `Park Now`
+
+
+Then enter the meter number displayed into the `Go Mobile PGH` app a
+
+
+
 ## Why Pittsburgh?
 
 * Pittsburgh has the parking system that allows for the creation of an app like this.

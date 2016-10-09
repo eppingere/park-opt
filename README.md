@@ -10,7 +10,7 @@ Title for app is a work in progress. Feel free to send suggestions.
 
 * In the City of Pittsburgh, we no longer have parking meters.
 * Instead, we use these small kiosks that are on every block.
-![Kiosk Image](https://s-media-cache-ak0.pinimg.com/736x/64/5d/dd/645ddd21c1317d398723bdbdb6fbc8ef.jpg "Parking Kiosk Image" =500x)
+![Kiosk Image](https://s-media-cache-ak0.pinimg.com/736x/64/5d/dd/645ddd21c1317d398723bdbdb6fbc8ef.jpg "Kiosk Image")
 * When you park, you enter your licence plate and pay for some parking time at the kiosk.
 * The parking attendents then can check your licence plate against the list of licence plates in the system that have paid.
 * What's nice about this is that you can pay and move your car with out having to worry about getting a ticket at your new spot or overpaying at your old spot.

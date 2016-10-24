@@ -48,6 +48,6 @@ Simply open the app and hit `Park Now`, then enter the meter number displayed in
 ## Why Pittsburgh?
 
 * Pittsburgh has the parking system that allows for the creation of an app like this.
-* No other city (to my knowlage) has a system like this.
+* No other city (to my knowledge) has a system like this.
 * (Also I live in the Greater Pittsburgh Area, which makes it easier to test :laughing:)
 
